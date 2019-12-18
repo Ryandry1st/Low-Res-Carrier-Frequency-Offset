@@ -5,6 +5,6 @@ The main page is a colab journal which includes the process, training, and evalu
 
 This is in progress, I will update as more information is publicly available.
 
-Please contact and cite me if you wish to use the code herin. 
+Please contact and cite me if you wish to use the code herein. 
 Ryan Dreifuerst
 ryandry1st@utexas.edu
