@@ -1,11 +1,9 @@
-# Carrier-Frequency-Offset
-Detailed code used for researching machine learning for carrier frequency offset
+# Deep Learning-based Carrier Frequency Offset Estimation with One-Bit ADCs
+Detailed code used for researching and applying machine learning for low resolution CFO estimation.
 
-The main page is a colab journal which includes the process, training, and evaluation of many different models considered for carrier frequency offset estimation, aimed at 5G and 6G applications.
+The main page is a colab journal which includes the process, training, and evaluation of many different models considered for carrier frequency offset estimation, aimed at 5G and 6G applications, where low resolution dataconverters are necessary.
 
-This is in progress, I will update as more information is publicly available.
-
-<b>Please contact and cite our research if you use this code.</b>
+<b>Please contact myself and/or cite our research if you use this code.</b>
 
 @INPROCEEDINGS{Drei2020:DeepCFO,</br>
 AUTHOR={Ryan M. Dreifuerst and Robert Heath and Mandar N. Kulkarni and Jianzhong
@@ -14,7 +12,6 @@ TITLE={{Deep Learning-based Carrier Frequency Offset Estimation with One-Bit
 ADCs}},</br>
 BOOKTITLE={2020 IEEE 21st International Workshop on Signal Processing Advances in
 Wireless Communications (SPAWC) (IEEE SPAWC 2020)},</br>
-ADDRESS="Atlanta, USA",</br>
 DAYS=26,</br>
 MONTH=may,</br>
 YEAR=2020,</br>
